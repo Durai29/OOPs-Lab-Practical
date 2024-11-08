@@ -1,4 +1,4 @@
-package Exp2;
+//package Exp2;
 import java.util.Scanner;
 
 public class _1One {
