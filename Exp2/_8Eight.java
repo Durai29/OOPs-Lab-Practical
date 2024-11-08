@@ -31,5 +31,6 @@ public class _8Eight {
         if(!found){
             System.out.println("None");
         }
+        scn.close();
     }
 }
